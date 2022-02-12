@@ -1,6 +1,6 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hipo_son)](https://solved.ac/hipo_son)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hipo_son&show_icons=true&theme=radical)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hipo_son&show_icons=true&theme=radical)
 
 
 <!--
