@@ -1,4 +1,3 @@
-### Hi there 👋
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hipo_son)](https://solved.ac/hipo_son)
 
 <!--
