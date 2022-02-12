@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hipo_son)](https://solved.ac/hipo_son)
 
 <!--
 **hipo-son/hipo-son** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
