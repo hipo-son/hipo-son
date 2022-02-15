@@ -1,6 +1,6 @@
 ## Hello
 
-<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hipo_son" height="200 >
+<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hipo_son" height="200" >
 <!--
 **hipo-son/hipo-son** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
