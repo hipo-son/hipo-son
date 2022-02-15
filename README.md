@@ -1,5 +1,5 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hipo_son)](https://solved.ac/hipo_son)
-#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hipo-son&show_icons=true&theme=radical)
+
 <!--
 **hipo-son/hipo-son** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
