@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hi,%20I'm%20Jinhan%20Park%20🤗&fontSize=36&animation=fadeIn&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=240&section=header&text=Hipo-son🤗&fontSize=36&animation=fadeIn&fontAlignY=36)
 
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hipo_son" height="220" >
 <div>
