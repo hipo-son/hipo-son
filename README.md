@@ -6,5 +6,5 @@
 <div>
   <img src="https://img.shields.io/badge/python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ruby-CC342Dstyle=flat-square&logo=Ruby&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=black" />
 </div>
