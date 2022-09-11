@@ -9,4 +9,5 @@
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=black" />
   <img src="https://img.shields.io/badge/Jekyll-CC0000?style=flat-square&logo=Jekyll&logoColor=black" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=black" />
+  <img src="https://img.shields.io/badge/Hugo-FF4088?style=flat-square&logo=Hugo&logoColor=black" />
 </div>
